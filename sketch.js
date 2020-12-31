@@ -36,6 +36,7 @@ background(255, 0, 0);
   textSize(50);
   text("trust me it's not just a counter",50,50);
   text("wait till it reaches 0..",100,100);
+  text("poczekaj do 0",150,150);
   textSize(40);
   text(days+" :",width/2-175,height/2)
   text(hours+" :",width/2-70,height/2);
