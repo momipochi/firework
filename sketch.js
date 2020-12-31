@@ -1,5 +1,3 @@
-
-
 const fireworks = [];
 let gravity;
 
