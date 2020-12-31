@@ -14,7 +14,7 @@ function setup() {
 
 
 function draw() {
-  var countDownDate = new Date("Dec 31, 2020 10:50:00").getTime();
+  var countDownDate = new Date("Jan 1, 2021 00:00:00").getTime();
   // Update the count down every 1 second
 var x = setInterval(function() {
 
