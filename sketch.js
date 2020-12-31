@@ -34,10 +34,10 @@ var x = setInterval(function() {
 if (distance > 0) {
 background(255, 0, 0);
   textSize(40);
-  text(days+"d",width/2-175,height/2)
-  text(hours+"h",width/2-70,height/2);
-  text(minutes+"m",width/2+70,height/2);
-  text(seconds+"s",width/2+175, height/2);
+  text(days+":",width/2-175,height/2)
+  text(hours+":",width/2-70,height/2);
+  text(minutes+":",width/2+70,height/2);
+  text(seconds,width/2+175, height/2);
 }
   
   // If the count down is over, write some text 
